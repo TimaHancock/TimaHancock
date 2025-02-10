@@ -2,11 +2,12 @@
 <a href="https://linkedin.com/in/tima-hancock"><img src="LinkedIn_icon.svg.png" alt="LinkedIn Profile" width="30" ></a>
 
 ## About me
-I am a budding IT professional with experience in various aspects of the cyber world.
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Aliquet tortor congue finibus fusce parturient. Ac per finibus proin ultrices turpis cubilia.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Lorem ipsum odor amet, consectetuer adipiscing elit. Morbi sodales conubia molestie primis vitae natoque. Mi fusce pellentesque elit quisque litora suscipit justo. Bibendum ultricies magnis nec, pharetra placerat ipsum. Luctus orci montes arcu; libero litora fringilla. Tempus nibh litora ex orci in augue. Accumsan condimentum eu pretium urna augue quam. Urna et luctus volutpat nullam platea consequat. Ex laoreet sem parturient magnis maximus semper litora. Congue fringilla tempus habitasse, a pharetra nullam proin.
 
 ## Certifications
 
@@ -22,9 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Skill placeholder         | Project Placeholder|
-
-
-## Tools
 
 ## Other Projects
 - Project Placeholder
