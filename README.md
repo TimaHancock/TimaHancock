@@ -1,5 +1,5 @@
 # Hello, I'm Tima!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tima-hancock)
+[![LinkedIn](/Linkedin_icon.svg.png)](https://www.linkedin.com/in/tima-hancock)
 
 ## About me
 I am a budding IT professional with experience in various aspects of the cyber world.
