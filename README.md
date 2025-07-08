@@ -3,11 +3,11 @@
 
 ## About me
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Aliquet tortor congue finibus fusce parturient. Ac per finibus proin ultrices turpis cubilia.
+I'm an aspiring cybersecurity analyst stuck in the body of an IT Support person with a passion for tech and a knack for solving IT puzzles. With certifications like the CompTIA Trifecta (A+, Net+, Sec+), I spend my days troubleshooting, doing tickets, and helping folks navigate the digital wilds. When I’m not doing password and MFA resets, you might catch me mixing audio for worship services at Chapel RVA (because who doesn’t love tweaking EQ settings?) or diving into TryHackMe challenges for the upskilling. Check out my repositories for some techy goodness, and feel free to ping me if you want to collab or point out my terrible code.
 
 ## Objective
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Morbi sodales conubia molestie primis vitae natoque. Mi fusce pellentesque elit quisque litora suscipit justo. Bibendum ultricies magnis nec, pharetra placerat ipsum. Luctus orci montes arcu; libero litora fringilla. Tempus nibh litora ex orci in augue. Accumsan condimentum eu pretium urna augue quam. Urna et luctus volutpat nullam platea consequat. Ex laoreet sem parturient magnis maximus semper litora. Congue fringilla tempus habitasse, a pharetra nullam proin.
+The objective is simple. I do stuff, you need to see it, simple as. It ain't much, but it's honest work. While I navigate my career path, I'll try and throw down what I'm building up here. If it looks dumb, please be patient, I can make it much worse soon. Very open to criticism if you are willing, I love to be humbled.
 
 ## Certifications
 
