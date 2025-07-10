@@ -20,9 +20,9 @@ The objective is simple. I do stuff, you need to see it, simple as. It ain't muc
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Skill placeholder         | Project Placeholder|
+| Skill                        | Associated Project                                                            |
+|:----------------------------:|:-----------------------------------------------------------------------------:|
+| SIEM Building and Management | <a href="https://github.com/TimaHancock/Home-SIEM-Project" Home-SIEM-Proejct> |
 
 ## Other Projects
 - Project Placeholder
