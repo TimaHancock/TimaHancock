@@ -23,6 +23,4 @@ The objective is simple. I do stuff, you need to see it, simple as. It ain't muc
 | Skill                        | Associated Project                                                            |
 |:----------------------------:|:-----------------------------------------------------------------------------:|
 | SIEM Building and Management | <a href="https://github.com/TimaHancock/Home-SIEM-Project"> Home SIEM Project |
-
-## Other Projects
-- Project Placeholder
+| Beginner in PowerShell       | <a href="https://github.com/TimaHancock/PowerShell-Scripts"> My Scripts       |
